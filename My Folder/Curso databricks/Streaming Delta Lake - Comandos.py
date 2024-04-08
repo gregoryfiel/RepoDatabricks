@@ -1,11 +1,5 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ## Eliminando arquivos caso existam nas pastas, pois serão destinados as tabelas Delta
-# MAGIC
-
-# COMMAND ----------
-
-# MAGIC %md
 # MAGIC ## Listando os diversos arquivos Json para carga no Delta Lake
 
 # COMMAND ----------
